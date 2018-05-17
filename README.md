@@ -1,4 +1,10 @@
 # Library
+
+U¿yte Pliki JAR
+com.mysql.jdbc_5.1.5.jar
+sqlite-jdbc-3.8.11.2.jar
+
+
 Library requirements
  
 1. Library contains books to lend (at the beginning there are no books in the library)
